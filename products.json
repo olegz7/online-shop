@@ -26,5 +26,11 @@
         "image": "viking.svg",
         "description": "Viking sticker",
         "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "Nike Classic Polo T-Shirt",
+        "image": "sale-nike-t-short.jpeg",
+        "price": 23.00
     }
 ]
